@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ferramentas de colaboração e softwares livres na educação">
+    <title>Ferramentas de Colaboração e Softwares Livres na Educação</title>
+    <style>
+        /* Reseta margens e paddings padrões */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Corpo da página */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7fc;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Cabeçalho */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Logo no cabeçalho */
+        header img {
+            max-width: 120px; /* Ajuste o tamanho conforme necessário */
+            margin-bottom: 1rem;
+        }
+
+        /* Seções */
+        section {
+            margin: 2rem;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        h2 {
+            color: #4CAF50;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 2rem;
+            font-size: 1.1rem;
+        }
+
+        p {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Estilo para links */
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Rodapé */
+        footer {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 1rem 0;
+            position: relative;
+            width: 100%;
+            bottom: 0;
+        }
+
+        /* Estilos responsivos */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            section {
+                margin: 1rem;
+                padding: 1.5rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Logo do IFCE usando o link direto -->
+        <img src="https://ifce.edu.br/prpi/documentos-1/semic/2018/logo-ifce-vertical.png" alt="Logo IFCE">
+        <h1>Ferramentas de Colaboração e Softwares Livres na Educação</h1>
+    </header>
+
+    <section>
+        <h2>O que são ferramentas de colaboração?</h2>
+        <p>Ferramentas de colaboração são plataformas ou aplicativos que permitem a interação e o trabalho em equipe de forma eficiente, mesmo quando os participantes estão em locais diferentes. Na educação, essas ferramentas são essenciais para promover a aprendizagem colaborativa, onde alunos e professores podem compartilhar ideias, realizar projetos conjuntos e trocar conhecimento de forma ágil.</p>
+    </section>
+
+    <section>
+        <h2>Exemplos de Ferramentas de Colaboração</h2>
+        <ul>
+            <li><strong>Google Workspace for Education</strong>: Conjunto de ferramentas como Google Docs, Google Meet e Google Classroom, permitindo a criação, o compartilhamento e a comunicação em tempo real.</li>
+            <li><strong>Padlet</strong>: Plataforma interativa que permite criar murais digitais colaborativos, onde alunos podem adicionar notas, imagens e links de forma colaborativa.</li>
+            <li><strong>Microsoft Teams</strong>: Ferramenta de colaboração que facilita a comunicação entre professores e alunos, possibilitando chat, chamadas de vídeo e compartilhamento de arquivos.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Softwares Livres na Educação</h2>
+        <p>Softwares livres são programas de computador cujos códigos-fonte são acessíveis para qualquer pessoa, permitindo modificações e distribuições sem custos. Na educação, eles têm um grande impacto, pois oferecem uma alternativa acessível e flexível às ferramentas proprietárias, promovendo a inclusão digital e a personalização do aprendizado.</p>
+    </section>
+
+    <section>
+        <h2>Exemplos de Softwares Livres</h2>
+        <ul>
+            <li><strong>LibreOffice</strong>: Suite de aplicativos de escritório que oferece alternativas ao Microsoft Office, com programas como Writer (processador de texto) e Calc (planilha eletrônica).</li>
+            <li><strong>Moodle</strong>: Plataforma de aprendizagem de código aberto, amplamente utilizada para a criação de cursos online e gestão de conteúdos educacionais.</li>
+            <li><strong>GIMP</strong>: Software de edição de imagens que pode ser utilizado para a criação de materiais gráficos no ambiente educacional.</li>
+            <li><strong>Scratch</strong>: Linguagem de programação visual que permite aos estudantes aprenderem conceitos de programação de forma simples e interativa.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Benefícios das Ferramentas de Colaboração e Softwares Livres na Educação</h2>
+        <ul>
+            <li><strong>Inclusão digital</strong>: Acessibilidade a todos os alunos, independentemente de sua condição financeira, já que muitas ferramentas e softwares livres são gratuitos.</li>
+            <li><strong>Flexibilidade</strong>: Softwares livres e ferramentas de colaboração oferecem muitas possibilidades de personalização, adaptando-se às necessidades de diferentes contextos educacionais.</li>
+            <li><strong>Desenvolvimento de habilidades</strong>: Os alunos podem desenvolver competências digitais essenciais para o futuro, como comunicação, trabalho em equipe e resolução de problemas.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Educação Colaborativa. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
